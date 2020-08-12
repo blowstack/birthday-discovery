@@ -1,0 +1,50 @@
+{
+  "Aquarius":{
+    "name": "Aquarius",
+    "description": "Aquarius people love to help others. They are liberal, democratic, humanitarians who are broad-minded and enjoys social equality. They are considered reformers, but can be cold and indifferent. They are often eccentric, erratic, rebellious, unpredictable, highly opinionated, original, one-of-a-kind, friendly, sharp-tongued, idealistic, inventive, quick to change their minds, and resolute."
+  },
+  "Pisces":{
+    "name": "Pisces",
+    "description": "They are highly creative, smart, passionate, sensitive and friendly. They like to take care of others, but are often viewed as offensive because of their changing temperaments. They are typically characterized by beautiful eyes and smiles."  },
+  "Aries":{
+    "name": "Aries",
+    "description": "They are stubborn, egoistical, show-offs, fiercely independent, extremely competitive, freedom-loving, adventurous, enthusiastic, bold, athletic, impulsive, reckless, dynamic, powerful, overly-confident, loud, blunt, hasty, hard-headed, stubborn, strong-willed, hot-tempered, rude, selfish, impulsive, enterprising, risk-takers, and challenger"
+  },
+  "Taurus":{
+    "name": "Taurus",
+    "description": "People born under this sign love nice things; they can come across as extremely materialistic, or as people who enjoy the finer things in life. They are sometimes slow to act, great at managing money, lovers of the outdoors (and of doing outdoor activities such as farming or gardening), very practical and down to earth. Taurus people typically dislike change."
+  },
+  "Gemini":{
+    "name": "Gemini",
+    "description": "Geminis are usually good arguers, witty, adaptive, flirtatious, playful (but may come across as offensive), tricksters, inconsistent, easy to please, intellectual, chatty, quick-witted, social butterflies, knowledge-seeking, and changeable. They typically like reading, writing, and mental games, and are great at multitasking."
+  },
+  "Cancer":{
+    "name": "Cancer",
+    "description": "They are very sensitive - with unpredictable moods, romantic, nice, sweet, caring and nurturing, motherly, homey. Cancer individuals like home-cooked meals and quality family time; they are socially conservative, and withdraw from the scene when hurt or offended. "
+  },
+  "Leo":{
+    "name": "Leo",
+    "description": "Leos are loving and sensitive leaders. Leos love children, are very attractive, enjoy luxury and jewelry, and have a bigger-than-life dramatic attitude. Leos are show-offs, egoistical, dominant, powerful, determined, charismatic, very demanding, athletic, smart, arrogant, pompous, conceited, temperamental, competitive, passionate, stubborn, loud, loyal, strong-willed, and usually laid-back, but can be highly aggressive or even potentially destructive. They typically want to be the center of attention and have a tremendous sense of vitality."
+  },
+  "Virgo":{
+    "name": "Virgo",
+    "description": "These individuals are usually considered perfectionists, critical, detail-oriented, fastidious, practical, intelligent, sharp-witted, with keen intellect and powers of observation, shrewd, and penetrating. They have great mental dexterity and try to live healthy lifestyles. They can be judgmental, opinionated, naturally shy, and organized. Virgos often like order and cleanliness, and they know how to effectively prove their point in an argument."
+  },
+  "Libra":{
+    "name": "Libra",
+    "description": "Those born under the sign of Libra are intelligent, charming, flirtatious, frivolous, graceful, loyal and diplomatic. They like equality, justice, beauty, and beautiful things. They are usually considered social butterflies, polite, gracious, pleasantly mannered, idealistic, attractive, and peaceful."
+  },
+  "Scorpio":{
+    "name": "Scorpio",
+    "description": "Scorpios are secretive, passionate, confident, loyal, athletic, hyper-sensitive, mysterious, penetrating, investigative, powerful, sexual, resourceful, jealous, controlling, hot-tempered, magnetic, strong-willed, resilient, and revengeful. They typically have high levels of self-mastery in all areas. It's often hard to determine this one because Scorpios are very private although they often seem like they're an open book."
+  },
+  "Sagittarius":{
+    "name": "Sagittarius",
+    "description": "They are adventurous, independent, friendly, enthusiastic, broad-minded, overly-optimistic, brave, intelligent, charismatic, flirtatious, rebellious, love theory, tend to apply textbook theory to their pursuits, are highly capable of being technical, tend to be all-knowing and freedom-seeking. Sagittariuses dislike restrictions. They are talkative, natural entertainers, impulsive, exaggerating, over-indulgent, blunt, risk-takers, with a child-like wonder. Sagittarius people are always hungry for knowledge, opportunistic, philanthropic, and philosophical."
+  },
+
+  "Capricorn":{
+    "name": "Capricorn",
+    "description": "Capricorns are ambitious, determined, patient, mature, powerful, achiever, mysterious (disappearing), reserved, and detached, cautious, hot-tempered generous hard workers with a pair of penetrating eyes. They are usually very ambitious and enjoy responsibility. They are self-disciplined and respect authority. They are career-oriented, with a remarkable capacity for endurance and patience. They possess a tough exterior to protect others from hurting them. Inside the mysterious Capricorn is a charming and passionate human. They also possess a remarkable sense of humour."
+  }
+}
